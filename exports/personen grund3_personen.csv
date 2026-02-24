@@ -1,0 +1,15 @@
+uuid,vorname,nachname,geschlecht,geburtsjahr,todesjahr,vater,mutter,letzter_partner,erbfolge,kinderzahl,kinder,herkunft
+0,Elisabeth Eleonore,von Bergetal,f,-572,-521,,,,0,0,,BT
+1,Elise Anna,von Möwenburg,f,-538,-445,,,3,0,2,"11,13,",MB
+2,Niroi Jacques,von Kisatris,m,-527,-431,,,21,0,1,"12,",KS
+3,Johann Justus,von Tiefenfels,m,-531,-458,,,1,0,2,"11,13,",TF
+4,Elisabeth Nelania,von Bergetal,f,-548,-434,,0,22,0,1,"14,",BT
+5,Natalie ,von Eichenwald,f,-520,-440,,,23,0,1,"15,",EW
+11,Eleonore Marianne,von Möwenburg,f,-511,-449,3,1,,1,0,,MB
+12,Niroi Christian,von Kisatris,m,-508,-451,2,21,,1,0,,KS
+13,Friederike,von Tiefenfels,f,-505,-446,3,1,,0,0,,TF
+14,Magdalena,von Bergetal,f,-502,-426,22,4,,0,0,,BT
+15,Clara Christine Marianne ,von Eichenwald,f,-500,-446,23,5,,1,0,,EW
+21,Katharina,Richter,f,-520,-428,,,2,,1,"12,",MU
+22,Friedrich,Hahn,m,-542,-430,,,4,,1,"14,",MU
+23,Hans Michael,Schreiber,m,-522,-442,,,5,,1,"15,",MU
