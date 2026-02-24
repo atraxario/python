@@ -2905,7 +2905,8 @@ Das Hier ist das Tiefenfels Verrat",1
 2989,Gertrud,Petersen,f,-348,-323,,,,,0,,BT,Z,,,
 2990,Japhi Margaretha Marianne,Kunze,f,-347,-323,,,,,0,,MU,Z,,,
 2991,Bernhard,Dick,m,-347,-323,,,2372,,1,"2992,",TF,Z,,,
-2992,Bernhard Christoph Johannes Hubertus,von Bergetal,m,-323,-249,2991,2372,3210,10,5,"3460,3573,3627,3650,3723,",BT,Z,-278,Amtsantritt mit entfernung zum alten Fürsten: 1,1
+2992,Bernhard Christoph Johannes Hubertus,von Bergetal,m,-323,-235,2991,2372,3210,10,5,,BT,Z,-278,"Amtsantritt mit entfernung zum alten Fürsten: 1
+der Veräter Fürst",1
 2993,Wiebke,Grundmann,f,-346,-322,,,,,0,,MU,Z,,,
 2994,Otto,Freiherr von Plaje,m,-346,-319,,,2409,,2,"2995,3058,",KS,Z,,,
 2995,Amalia,von Bergetal,f,-323,-295,2994,2409,,15,0,,BT,Z,,,3
@@ -3373,7 +3374,7 @@ Das Hier ist das Tiefenfels Verrat",1
 3457,Joachim Elurin Andreas,von Eichenwald,m,-301,-270,2841,3342,3636,13,3,"3767,3798,3881,",EW,Z,,,1
 3458,Theodor Bernhard Meriel,Höfer,m,-326,-301,,,,,0,,EW,Z,,,
 3459,Therese Wiebke,Nowak,f,-323,-263,,,,,0,,MU,Z,,,
-3460,Bernhard Elurin,von Eichenwald,m,-301,-253,2992,3042,,15,0,,EW,Z,,,3
+3460,Bernhard Elurin,von Eichenwald,m,-301,235,2992,3042,,15,0,,EW,Z,,"Kinder der Veräter Fürst, mit ihm gestorben",3
 3461,Aldon Joachim,Schwab,m,-323,-279,,,3000,,1,"3462,",EW,Z,,,
 3462,Aldon Anton Martin Peter,von Möwenburg,m,-301,-279,3461,3000,,13,0,,MB,Z,,,3
 3463,Elise,Michels,f,-322,-301,,,3017,,1,"3464,",TF,Z,,,
@@ -3486,7 +3487,8 @@ Das Hier ist das Tiefenfels Verrat",1
 3570,Franz Paul Friedrich,Rauch,m,-314,-287,,,3229,,1,"3571,",BT,Z,,,
 3571,Franz Hermann,von Eichenwald,m,-296,-286,3570,3229,,15,0,,EW,Z,,,3
 3572,Catharina Caroline Ida Bertha,Conrad,f,-323,-267,,,2992,,1,"3573,",EW,Z,,,
-3573,Eleonore Elisabeth Therese Christiane,von Bergetal,f,-295,-213,2992,3572,3791,9,4,"3831,3836,3842,3971,",BT,Z,-248,Amtsantritt mit entfernung zum alten Fürsten: 1,3
+3573,Eleonore Elisabeth Therese Christiane,von Bergetal,f,-295,-213,,,3791,9,4,"3831,3836,3842,3971,",BT,Z,-235,"Amtsantritt mit entfernung zum alten Fürsten: 1
+Die Fürstin nach dem Veräter Fürst",3
 3574,Agnes,Rose,f,-317,-295,,,3152,,1,"3575,",TF,Z,,,
 3575,Ashild Henriette Milja,von Bergetal,f,-295,-287,3152,3574,,13,0,,BT,Z,,,3
 3576,Nelenia Christina Sophie,Baroness von Manson,f,-317,-295,,,,,0,,KS,Z,,,
@@ -3540,7 +3542,7 @@ Das Hier ist das Tiefenfels Verrat",1
 3624,Elurin Wilhelm Bernhard,Ernst,m,-310,-292,,,3296,,1,"3625,",EW,Z,,,
 3625,Wilhelm Jasper,von Möwenburg,m,-292,-285,3624,3296,,11,0,,MB,Z,,,2
 3626,Mathilde Ashild Wilhelmine,Münch,f,-323,-275,,,2992,,1,"3627,",BT,Z,,,
-3627,Ursula,von Bergetal,f,-291,-283,2992,3626,,10,0,,BT,Z,,,3
+3627,Ursula,von Bergetal,f,-291,-235,2992,3626,,10,0,,BT,Z,,"Kinder der Veräter Fürst, mit ihm gestorben",3
 3628,Christina Anne,von Kisatris,f,-291,-282,2717,3044,,14,0,,KS,AAABABABAAAC,,,1
 3629,Louis,Braon von Foret,m,-319,-287,,,3116,,1,"3630,",KS,Z,,,
 3630,Johanna Sophie Catharina Helene,von Kisatris,f,-291,-239,3629,3116,,16,0,,KS,AAABABABACBD,,,2
@@ -3563,7 +3565,7 @@ Das Hier ist das Tiefenfels Verrat",1
 3647,Anton Erlan Dwalin,von Bergetal,m,-291,-288,3646,3321,,13,0,,BT,Z,,,3
 3648,Friedrich Caspar,Kroll,m,-331,-290,,,,,0,,BT,Z,,,
 3649,Amalia Rieke Anna,Roth,f,-323,-259,,,2992,,1,"3650,",MU,Z,,,
-3650,Christoph Christian,von Bergetal,m,-290,-228,2992,3649,3843,10,5,"3874,3906,3924,4024,4110,",BT,Z,,,3
+3650,Christoph Christian,von Bergetal,m,-290,-228,,,3843,10,5,"3874,3906,3924,4024,4110,",BT,Z,,Geschwister der Fürstin nach dem Veräter,3
 3651,Joseph Jules,Graf von Houle,m,-321,-289,,,3076,,1,"3652,",KS,Z,,,
 3652,Juliane Friederike,von Kisatris,f,-290,-217,3651,3076,,17,0,,KS,AAABABABBBAD,,,3
 3653,Katharina,Schmitt,f,-315,-290,,,3201,,1,"3654,",MB,Z,,,
@@ -3636,7 +3638,7 @@ Das Hier ist das Tiefenfels Verrat",1
 3720,Agda Gertrud Edda Käthe,von Bergetal,f,-286,-271,3719,3412,,13,0,,BT,Z,,,3
 3721,Catharina Friederike Camille Johanna,Baroness von Paysage,f,-304,-277,,,3426,,1,"3722,",KS,Z,,,
 3722,Clara,von Tiefenfels,f,-286,-278,3426,3721,,14,0,,TF,Z,,,1
-3723,Mathilde Milja,von Bergetal,f,-285,-262,2992,3210,3953,10,3,"3905,3913,3954,",BT,Z,,,3
+3723,Mathilde Milja,von Bergetal,f,-285,-262,,,3953,10,3,"3905,3913,3954,",BT,Z,,Geschwister der Fürstin nach dem Veräter,3
 3724,Adam Schem,Lenz,m,-316,-258,,,,,0,,MU,Z,,,
 3725,Jade Camille Juliane Agnes,Keck,f,-312,-259,,,,,0,,TF,Z,,,
 3726,Nelenia Milja,Raschke,f,-310,-279,,,,,0,,BT,Z,,,
